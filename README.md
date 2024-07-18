@@ -18,7 +18,7 @@ The Text File Reading Project provides a utility to efficiently read and process
    ```
 2. Navigate to the project directory:
    ```sh
-   cd text-file-reading
+   cd Text-File-Reading
    ```
 
 ## Usage
